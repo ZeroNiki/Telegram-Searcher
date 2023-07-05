@@ -5,7 +5,7 @@
 
 Простой бот который занимается поиском
 
-## Устоновка (GNU/Linux)
+## Установка (GNU/Linux)
 
 ```bash
 git clone https://github.com/ZeroNiki/Telegram-Searcher.git
@@ -18,7 +18,7 @@ cd Telegram-Searcher
 python3 -m venv venv && source venv/bin/activate
 ```
 
-Устоновите зависимости:
+Установите зависимости:
 
 ```bash
 pip install -r requirements.txt
